@@ -1,0 +1,1 @@
+--SESSION 2:Tổng quan về hệ quan trị cơ sở dữ liệu trong PosgreSQL
